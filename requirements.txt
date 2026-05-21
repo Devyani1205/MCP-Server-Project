@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic-settings
+python-dotenv
+groq
+httpx
+passlib[bcrypt]
+python-jose[cryptography]
+bcrypt
+mcp
+fastmcp
